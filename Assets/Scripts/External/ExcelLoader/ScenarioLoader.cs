@@ -9,6 +9,6 @@ public class ScenarioLoader : ScriptableObject
     public string TableName { get { return tableName; } set { tableName = value; } }
 
     [SerializeField]
-    private List<string> scenarioTexts;
-    public List<string> ScenarioTexts { get { return scenarioTexts; } }
+    private List<ScenarioData> scenarioDatas;
+    public List<ScenarioData> ScenarioDatas { get { return scenarioDatas; } set { scenarioDatas = value; } }
 }

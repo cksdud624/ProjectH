@@ -13,4 +13,437 @@ MonoBehaviour:
   m_Name: ScenarioTest
   m_EditorClassIdentifier: 
   tableName: Test
-  scenarioTexts: []
+  scenarioDatas:
+  - nameData: "\uB098\uB808\uC774\uC158"
+    text: "\uAE38\uACE0 \uAE34 \uD574\uC678\uC5F0\uC218\uC758 \uB05D\uC774 \uB2E4\uAC00\uC654\uB2E4."
+    commands:
+    - target: 2
+      id: Test
+      action: Change
+      effect: Immediate
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uB0B4\uC77C \uC788\uC744 \uD558\uB8E8\uC758 \uD734\uAC00\uC5D0 \uC7A0\uC774
+      \uC798 \uC548 \uC62C\uAC83\uB9CC \uAC19\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uAE34 \uD558\uB8E8\uC758 \uD53C\uB85C\uB97C \uCEE4\uD53C \uD55C\uC794\uC73C\uB85C
+      \uB2EC\uB798\uBA70 \uCC3D\uBC16\uC744 \uBC14\uB77C\uBD24\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uAF64 \uAE34 \uC2DC\uAC04\uC744 \uC774\uACF3\uC5D0\uC11C \uBCF4\uB0C8\uB294\uB370,
+      \uADC0\uAD6D\uD558\uACE0\uB098\uC11C\uB3C4 \uBD84\uBA85 \uC774 \uB0A0 \uD558\uB8E8\uB97C
+      \uAE30\uC5B5\uD558\uC9C0 \uC54A\uC744\uAE4C?"
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uAC10\uC0C1\uC5D0 \uC816\uC5B4 \uC788\uC744 \uB54C \uAC10\uC131\uC744
+      \uAE68\uB294 \uC18C\uB9AC\uAC00 \uBC29\uC548\uC5D0 \uC6B8\uB824\uD37C\uC84C\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uC704\uC789~\uC704\uC789~"
+    commands:
+    - target: 3
+      id: Image01
+      action: Entry
+      effect: Immediate
+      usePosition: 1
+      position: {x: 0, y: 0}
+      delay: 0.5
+    - target: 2
+      id: 
+      action: Shake
+      effect: LeftRight
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0.5
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uC544 'B'\uC778\uAC00?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "\uB098\uB808\uC774\uC158"
+    text: "\uC6B8\uB9AC\uB294 \uD578\uB4DC\uD3F0\uC744 \uC190\uC5D0 \uC950\uC5B4\uC11C
+      \uC804\uD654\uB97C \uAC74 \uC0AC\uB78C\uC744 \uD655\uC778\uD588\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uC544\uB2C8\uB098 \uB2E4\uB97C\uAE4C, \uD654\uBA74\uC5D0\uB294 B\uC758
+      \uC774\uB984\uC774 \uC801\uD600 \uC788\uC5C8\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uB0B4\uC77C \uBAA8\uB808\uBA74 \uB3CC\uC544\uAC00\uB2C8\uAE4C, \uBB50\uD558\uB098
+      \uAD81\uAE08\uD588\uB098\uBCF4\uC9C0?"
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uC870\uAE08 \uB354 \uC788\uB2E4 \uBC1B\uC744\uAE4C \uC7A0\uC2DC \uC0DD\uAC01\uD588\uC9C0\uB9CC
+      \uB2A6\uAC8C \uBC1B\uB294\uB2E4\uACE0 \uD55C\uC18C\uB9AC \uB4E4\uC744\uD14C\uB2C8
+      \uC11C\uB458\uB7EC \uC804\uD654\uB97C \uBC1B\uC558\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uC5EC\uBCF4\uC138\uC694?\""
+    commands:
+    - target: 1
+      id: B
+      action: Entry
+      effect: Immediate
+      usePosition: 1
+      position: {x: 0.7, y: 0}
+      delay: 0
+    - target: 3
+      id: Image01
+      action: Exit
+      effect: Immediate
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+    - target: 1
+      id: B
+      action: Face
+      effect: Happy1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0.5
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uB610 \uC624\uB298\uC740 \uBB34\uC2A8\uC77C\uC774\uC57C?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uBB50\uC57C \uADF8 \uADC0\uCC2E\uB2E4\uB294 \uBC18\uC751\uC740?\""
+    commands:
+    - target: 1
+      id: B
+      action: Face
+      effect: Angry1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "\uB098\uB808\uC774\uC158"
+    text: "\uC774\uAC70\uB2E4. \uC5B4\uB9B4 \uB54C\uBD80\uD130 B\uB294 \uD22D\uD558\uACE0
+      \uAC74\uB4DC\uB9AC\uBA74 \uC774\uB807\uAC8C \uBC14\uB85C \uC7AC\uBC0C\uB294
+      \uBC18\uC751\uC744 \uBCF4\uC5EC\uC8FC\uACE0\uB294 \uD574\uC11C \uC77C\uBD80\uB7EC
+      \uB354 \uC9D3\uAD83\uAC8C \uAD74\uC5C8\uB2E4. "
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uC7A5\uB09C\uC774\uC57C \uC7A5\uB09C, \uBB50  \uADF8\uB7F0\uB370 \uC5B4\uC81C\uB3C4
+      \uD1B5\uD654\uD55C\uAC74 \uB9DE\uC796\uC544?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uBB50, \uBB50, \uADF8\uB7EC\uBA74 \uC548 \uB418\uB098? \uB09C \uD55C\uAD6D\uC5D0
+      \uC788\uB294\uB370 \uB10C \uC5EC\uD589\uAC14\uC73C\uB2C8\uAE4C. \uADF8 \uB098\uB77C\uB294
+      \uC5B4\uB5A4\uAC00 \uAD81\uAE08\uD574\uC11C \uADF8\uB807\uC9C0\""
+    commands:
+    - target: 1
+      id: B
+      action: Face
+      effect: Embarrassed
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uC548 \uB420\uAC70\uC57C \uC5C6\uC9C0? \uC5B4\uCC28\uD53C \uB3CC\uC544\uAC00\uC11C\uB3C4
+      \uD558\uB8E8 \uC274\uD150\uB370. \uADF8\uB54C \uB9CC\uB098\uC11C \uC794\uB729
+      \uC774\uC57C\uAE30\uD574\uC904\uAC8C.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uADF8\uB798\uC11C, \uC624\uB298\uC740 '\uBCC4 \uC77C' \uC5C6\uC5C8\uC5B4?\""
+    commands:
+    - target: 5
+      id: "\uBCC4 \uC77C'"
+      action: Color
+      effect: Red
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "\uB098\uB808\uC774\uC158"
+    text: "B\uB294 \uC5B8\uC81C\uBD80\uD134\uAC00, \uC800\uB807\uAC8C \uBB3C\uC5B4\uC624\uACE4
+      \uD588\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uB2E8\uC21C\uD558\uAC8C, \uC548\uC704\uAC00 \uAC71\uC815\uB418\uB294
+      \uAC83\uC77C \uC218\uB3C4 \uC788\uC9C0\uB9CC \uC5B4\uB9B4\uB54C\uBCF4\uB2E4\uB294
+      \uD655\uC2E4\uD558\uAC8C \uAC71\uC815\uC774 \uB9CE\uC544\uC9C4 \uAC83 \uAC19\uC740
+      \uB290\uB08C\uC774\uB784\uAE4C?"
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uADF8\uB0E5 \uCC29\uAC01\uC77C \uC218\uB3C4 \uC788\uC9C0\uB9CC."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uD06C\uAC8C \uBCC4 \uC77C\uC740 \uC5C6\uC5C8\uC5B4. \uC544 \uC644\uC804\uD788
+      \uB2A6\uC740 \uC800\uB141\uC774 \uB418\uAE30 \uC804\uC5D0 \uC0B0\uCC45\uC774\uB098
+      \uB098\uAC00\uBCFC\uAE4C \uD558\uB294\uB370?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uADF8\uB798? \uC9C0\uAE08\uB3C4 \uADF8\uB807\uAC8C \uC774\uB978 \uC2DC\uAC04\uC740
+      \uC544\uB2CC \uAC83 \uAC19\uC740\uB370.\""
+    commands:
+    - target: 1
+      id: B
+      action: Face
+      effect: Happy1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0.5
+  - nameData: 
+    text: "\"\uD53C\uB85C\uD558\uC9C0 \uC54A\uAC8C \uADF8\uB9AC\uACE0 \uC704\uD5D8\uD558\uB2C8\uAE4C
+      \uB108\uBB34 \uB2A6\uAC8C \uAE4C\uC9C0 \uB3CC\uC544\uB2E4\uB2C8\uC9C0\uB2C8\uB294
+      \uB9D0\uACE0.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uAF2D \uB9D0\uD558\uB294\uAC70 \uBCF4\uBA74 \uC5C4\uB9C8\uC778 \uAC83
+      \uAC19\uC774 \uB9D0\uD55C\uB2E4\uB2C8\uAE4C.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\"\uAC71\uC815\uD558\uC9C0 \uB9C8. \uC5B4\uB514 \uAC00\uC11C \uB9DE\uACE0
+      \uB2E4\uB2D0 \uC778\uC0C1\uB3C4 \uC544\uB2C8\uACE0 \uB9D0\uC774\uC57C.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "\uB098\uB808\uC774\uC158"
+    text: "\uC544\uBB34\uB9AC \uD55C\uAD6D\uBCF4\uB2E4 \uCE58\uC548\uC774 \uC88B\uC9C0
+      \uC54A\uC744\uC9C0\uB294 \uBAB0\uB77C\uB3C4 \uB3C4\uC2EC\uAC00\uC5D0\uC11C
+      \uD070 \uC77C\uC774 \uC788\uC744\uB9AC\uB294 \uC5C6\uC5C8\uB2E4."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\uBB50 \uC124\uB839 \uC788\uB2E4\uACE0 \uD574\uB3C4, \uC6B4\uC774 \uB098\uC05C\uAC70\uACA0\uC9C0."
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uAC71\uC815\uD574\uC918\uB3C4 \uACE0\uB9C8\uC6B4 \uC904\uC744 \uBAB0\uB77C\uC694.
+      \uADF8\uB7EC\uBA74 \uC2AC\uC2AC \uB098\uAC00\uBCFC\uAC70\uC9C0?\""
+    commands:
+    - target: 1
+      id: B
+      action: Face
+      effect: Angry1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+    - target: 1
+      id: B
+      action: Face
+      effect: Happy1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0.5
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uADF8\uB798\uC57C\uC9C0, \uADF8\uB798\uC57C \uB204\uAD6C\uB204\uAD6C\uC528\uAC00
+      \uAC71\uC815\uD558\uC9C0 \uC54A\uC744 \uC2DC\uAC04\uC5D0 \uB3C4\uCC29\uD574\uC11C
+      \uC790\uACA0\uC8E0?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: B'
+    text: "\"\uB108\uB124 \uBD80\uBAA8\uB2D8\uC774 \uAC71\uC815\uD558\uC2E4\uAE4C\uBD10
+      \uADF8\uB7F0\uAC70\uAC70\uB4E0?\""
+    commands:
+    - target: 1
+      id: B
+      action: Face
+      effect: Happy1
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\"\uADF8\uB7EC\uBA74 \uC798 \uC790\uACE0.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\"\uB3CC\uC544\uC640\uC11C \uAF2D \uBCF4\uC790.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: "\"\uB4E4\uC5B4\uAC08\uAC8C?\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: "{\uC8FC\uC778\uACF5 \uC774\uB984}"
+    text: "\"\uADF8\uB798, \uB3CC\uC544\uAC00\uC11C \uBCF4\uC790. \uB108\uB3C4 \uC798\uC790.\""
+    commands:
+    - target: 0
+      id: 
+      action: 
+      effect: 
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
+  - nameData: 
+    text: 
+    commands:
+    - target: 1
+      id: B
+      action: Exit
+      effect: Slowly
+      usePosition: 0
+      position: {x: 0, y: 0}
+      delay: 0
